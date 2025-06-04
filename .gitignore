@@ -1,0 +1,21 @@
+#docker volumes
+*_data/
+
+#Logs
+*.log
+
+# Environment files
+.env
+
+#IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+#Temporary files
+*.tmp
+*.bak
+*.backup
