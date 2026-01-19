@@ -423,10 +423,4 @@ Ce projet démontre la **maîtrise complète du cycle DevOps** pour une infrastr
 - Monitoring et observabilité
 - Documentation technique et transfert de connaissance
 
-Cette réalisation constitue une **base solide** pour des projets de monitoring d'entreprise et démontre la capacité à **livrer des solutions opérationnelles** dans des environnements techniques contraints.
 
----
-
-*Projet réalisé dans le cadre de la formation DevOps*  
-*Auteur : Messaline Dubois  
-*Technologies : Docker, Prometheus, Grafana, Python Flask*
